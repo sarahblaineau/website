@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+
+  <body>
+    <div class="container">
+      <h1> Bienvenue tout le monde!</h1>
+
+      <h3> 1. Contenu :) </h3>
+      <p> Ce website a pour but de partager des astuces pour protéger vos données sur Internet! </p>
+
+      <h3> 2. Moi :) </h3>
+      <img class= "avatar" src="photoo.jpg">
+
+      <h3> 3. Bouton </h3>
+      <a href="#" class="btn-green">Submit</a>
+
+
+    </div>
+
+  </body>
+</html>
+
+
+
+
+

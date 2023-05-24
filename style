@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css?family=Oswald")
+@import url("components/avatar.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/container.css");
+
+h1 {
+  color: seagreen;
+	font-size: 30px;
+	font-family: century gothic;
+}
+h3{
+	color: #e0607e;
+	font-size: 20px;
+	font-family: century gothic;
+}
+
+body{
+	color: #090c02;
+	background-color:#cfd4c5;
+	font-family: calibri light;
+	text-align: center;
+	font-weight: lighter;
+	line-height: 1;
+}
+a{
+	color:#550527;
+	text-decoration:underline #550527;
+}
